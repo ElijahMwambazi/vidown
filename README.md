@@ -222,5 +222,3 @@ cargo run
 This focused approach gets you a working, useful tool quickly without feature creep. You can always add more advanced features later once the core functionality is solid.
 
 ---
-
-**Focus on making it work first, then make it better! 🚀**
